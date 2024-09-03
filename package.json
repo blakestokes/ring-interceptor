@@ -1,0 +1,9 @@
+{
+  "name": "ring-interceptor",
+  "author": "Blake Stokes",
+  "main": "motion-capture.js",
+  "dependencies": {
+    "ring-client-api": "^9.23.0"
+  },
+  "type":"module"
+}

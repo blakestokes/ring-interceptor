@@ -1,1 +1,2 @@
-# ring-interceptor
+# Ring Interceptor
+This was a small project to handle saving Ring doorbell footage captures locally to my NAS instead of using the paid Ring cloud service. I would refine this older javascript if I had a Ring doorbell at my current residence, but this little program was handy and fun to work on.
